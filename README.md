@@ -3,7 +3,7 @@
 Databricks has enabled behalf-of-user authentication in beta, finally! This means agents can now access Databricks resources using the identity of the Databricks end user who invoked the agent. The solution includes an example agent solution with the deployment process.
 
 The article on the solution can be found here: 
-* [Learn how to properly handle agent authentication in Databricks](https://www.ikidata.fi/post/learn-how-to-properly-handle-agent-authorization-in-databricks)
+* [Learn how to properly handle agent authentication in Databricks](https://www.ikidata.fi/post/learn-how-to-properly-handle-agent-authentication-in-databricks)
 
 ## Table of Contents
 
